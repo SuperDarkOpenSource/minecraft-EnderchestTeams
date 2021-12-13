@@ -1,0 +1,7 @@
+name: EnderchestTeams
+version: '${project.version}'
+main: net.superdark.minecraft.plugins.enderchestteams.EnderchestTeamsPlugin
+api-version: 1.18
+authors: [ onnesh, EncryptedData ]
+description: Implementation for players to form teams in which they can all access a shared enderchest through shift-right-clicking an enderchest.
+website: minecraft.superdark.net
